@@ -1,11 +1,13 @@
 <div align="center" style="display: inline_block">
-  <h1>Estudante de programação <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <h1>Estudando Programação <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpkamJycWE5cGY2aWR1eHJsY2lpZW5mcHR0NHR4MTIyajR2aHg4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+<div id="header" align="center" style=" display: flex">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc2MzZienliMHBhaWdsMHJnYmp2ejhpaDFwdTc3ZHFpYnFnd2F6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UZisxBxkjPwI/giphy.gif" width="200" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2EybmFieXFpY2tvOGVmenF5ZThsamFqanJtcXo0YmQ2NHZjYmd2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hlOHhyZDBjdndoOW16bXVjM205emFjamdpYXpiNnVoZXNuc28xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.gif" width="200" height="200"/>
 </div>
-
+<br>
 <div align="center">
 
 <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroRMG&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</a>
