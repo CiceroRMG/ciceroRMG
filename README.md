@@ -18,7 +18,7 @@
 
 ---
 
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroRMG&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciceroRMG&layout=compact&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 ---
 
