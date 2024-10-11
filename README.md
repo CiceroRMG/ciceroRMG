@@ -1,19 +1,19 @@
-### Desenvolvedor Full Stack Junior 🚀 Estudante de Sistemas da Informação
+### Desenvolvedor Full Stack Junior 🚀
 
 ---
 
 ### 🛠 Tecnologias & Ferramentas:
-- **Front-end**: JavaScript, HTML5, CSS3
-- **Back-end**: Node.js, Express, APIs REST
-- **Banco de Dados**: MongoDB
-- **Outras ferramentas**: Git, GitHub
-- **Sistema operacional** : Linux (popOS)
+- **Front-end**: JavaScript, Typescript, HTML5, CSS3
+- **Back-end**: Node.js, Express, Fastify, APIs REST, Vitest
+- **Banco de Dados**: MongoDB, Prisma ORM
+- **Versionamento**: Git, GitHub
+- **Sistema operacional** : Linux
 
 ---
 
-### 🌱 Tecnologias e Habilidades que estou desenvolvendo:
+### 🌱 Tecnologias que estou desenvolvendo:
 - **React**
-- **React Native** para desenvolvimento de aplicações mobile.
+- **NestJs**
 - **Vue.js** para manutenção de projetos legados.
 
 ---
