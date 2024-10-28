@@ -1,4 +1,4 @@
-### Desenvolvedor Full Stack Junior 🚀
+### Desenvolvedor Full Stack 🚀
 
 ---
 
@@ -14,7 +14,7 @@
 ### 🌱 Tecnologias que estou desenvolvendo:
 - **React**
 - **NestJs**
-- **Vue.js** para manutenção de projetos legados.
+- **Vue.js**
 
 ---
 
