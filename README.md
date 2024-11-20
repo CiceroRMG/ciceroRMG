@@ -5,8 +5,8 @@
 ### 🛠 Tools and Technologies:
 - **Front-end**: JavaScript, Typescript, HTML5, CSS3, React
 - **Back-end**: Node.js, Express, Fastify, APIs REST, Vitest, Swagger
-- **Banco de Dados**: MongoDB, Prisma ORM
-- **Versionamento**: Git, GitHub, GitLab
+- **Data Base**: MongoDB, Prisma ORM
+- **Version Control**: Git, GitHub, GitLab
   
 ---
 
