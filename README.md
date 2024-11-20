@@ -1,19 +1,18 @@
-### Desenvolvedor Full Stack 🚀
+### Full Stack Developer 🚀
 
 ---
 
-### 🛠 Tecnologias & Ferramentas:
-- **Front-end**: JavaScript, Typescript, HTML5, CSS3
+### 🛠 Tools and Technologies:
+- **Front-end**: JavaScript, Typescript, HTML5, CSS3, React
 - **Back-end**: Node.js, Express, Fastify, APIs REST, Vitest, Swagger
 - **Banco de Dados**: MongoDB, Prisma ORM
 - **Versionamento**: Git, GitHub, GitLab
   
 ---
 
-### 🌱 Tecnologias que estou desenvolvendo:
-- **React**
+### 🌱 Technologies I'm currently developing:
+- **NextJs**
 - **NestJs**
-- **Vue.js**
 
 ---
 
@@ -21,6 +20,6 @@
 
 ---
 
-### 📫 Como me contatar:
+### 📫 How to contact me:
 - Email: [dev.cicerogomes@gmail.com](mailto:dev.cicerogomes@gmail.com)
 - LinkedIn: [linkedin.com/in/cícero-gomes](https://www.linkedin.com/in/c%C3%ADcero-gomes-8207292b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ9zwqU8VQYew73SWBwciqA%3D%3D)
