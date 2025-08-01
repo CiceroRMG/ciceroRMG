@@ -3,10 +3,9 @@
 ---
 
 ### 🛠 Tools and Technologies:
-- **Front-end**: JavaScript, Typescript, HTML5, CSS3, React
+- **Front-end**: JavaScript, Typescript, TailWind, React, Next.Js
 - **Back-end**: Node.js, Express, Fastify, APIs REST, Vitest, Swagger
 - **Data Base**: MongoDB, Prisma ORM
-- **Version Control**: Git, GitHub, GitLab
   
 ---
 <br/>
@@ -15,12 +14,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
 </div>
 <br/>
-
----
-
-### 🌱 Technologies I'm currently developing:
-- **NextJs**
-- **NestJs**
 
 ---
 
